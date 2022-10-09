@@ -29,10 +29,10 @@ function App() {
           <li><a className="nav-link scrollto" href="#analyze">Analyze</a></li>
           <li className="dropdown"><a href="#services"><span>Services</span><FontAwesomeIcon icon="chevron-down"/></a>
             <ul>
-              <li><a href="form.php?service=postboost">Post Boost</a></li>
-              <li><a href="form.php?service=gametopup">Game Topup</a></li>
-              <li><a href="form.php?service=giftcard">Gift Card</a></li>
-              <li><a href="form.php?service=ottplatform">OTT Platform</a></li>
+              <li><a href="">Post Boost</a></li>
+              <li><a href="">Game Topup</a></li>
+              <li><a href="">Gift Card</a></li>
+              <li><a href="">OTT Platform</a></li>
             </ul>
           </li>
           <li><a className="nav-link scrollto" href="#contact">Contact</a></li>
@@ -40,7 +40,7 @@ function App() {
         <i className="bi bi-list mobile-nav-toggle"></i>
       </nav>
 
-      <a href="form.php?service=postboost" className="get-started-btn scrollto">Boost Now</a>
+      <a href="" className="get-started-btn scrollto">Boost Now</a>
 
     </div>
   </header>
@@ -60,25 +60,25 @@ function App() {
         <div className="col-xl-2 col-md-4">
           <div className="icon-box">
             <FontAwesomeIcon icon="rocket"/>
-            <h3><a href="service-details.php?id=1">Posts Boosting</a></h3>
+            <h3><a href="">Posts Boosting</a></h3>
           </div>
         </div>
         <div className="col-xl-2 col-md-4">
           <div className="icon-box">
             <FontAwesomeIcon icon="coins"/>
-            <h3><a href="service-details.php?id=2">Games Topup</a></h3>
+            <h3><a href="">Games Topup</a></h3>
           </div>
         </div>
         <div className="col-xl-2 col-md-4">
           <div className="icon-box">
             <FontAwesomeIcon icon="credit-card"/>
-            <h3><a href="service-details.php?id=3">Gift Cards</a></h3>
+            <h3><a href="">Gift Cards</a></h3>
           </div>
         </div>
         <div className="col-xl-2 col-md-4">
           <div className="icon-box">
             <FontAwesomeIcon icon="play-circle" style={{color:'#ffffeb',fontSize: '1.8em'}}/>
-            <h3><a href="service-details.php?id=4">OTT Platform</a></h3>
+            <h3><a href="">OTT Platform</a></h3>
           </div>
         </div>
       </div>
@@ -164,7 +164,7 @@ function App() {
         <div className="text-center">
           <h3 style={{textShadow:'1px 1px 15px #C3B2AF'}}>Users Want To Talk About Your Brand, Give Them A Reason</h3>
           <p> The man who stops advertising to save money is like the man who stops the clock to save time.<br/>Think smart, act smarter, be smartest.</p>
-          <a className="cta-btn" href="form.php?service=postboost">Reach Customers</a>
+          <a className="cta-btn" href="">Reach Customers</a>
         </div>
 
       </div>
@@ -183,7 +183,7 @@ function App() {
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div className="icon-box">
               <div className="icon"><FontAwesomeIcon icon="rocket"/></div>
-              <h4><a href="service-details.php?id=1">Posts Boosting</a></h4>
+              <h4><a href="">Posts Boosting</a></h4>
               <p>We do boosting of google, facebook or instagram posts at the lowest possible rate.</p>
             </div>
           </div>
@@ -191,7 +191,7 @@ function App() {
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div className="icon-box">
               <div className="icon"><FontAwesomeIcon icon="gamepad"/></div>
-              <h4><a href="service-details.php?id=2">Games Topup</a></h4>
+              <h4><a href="">Games Topup</a></h4>
               <p>Free fire topup, PUBG mobile UC topup, Mobile Legends Diamond Topup and many more.</p>
             </div>
           </div>
@@ -199,7 +199,7 @@ function App() {
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div className="icon-box">
               <div className="icon"><FontAwesomeIcon icon="credit-card"/></div>
-              <h4><a href="service-details.php?id=3">Gift Cards</a></h4>
+              <h4><a href="">Gift Cards</a></h4>
               <p>Fortnite V-Bucks, Razer Gold, iTunes Gift Cards, Steam Gift Cards, Google Play Gift Cards etc. </p>
             </div>
           </div>
@@ -207,7 +207,7 @@ function App() {
           <div className="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div className="icon-box">
               <div className="icon"><FontAwesomeIcon icon="play-circle" style={{color:'black',fontSize:'1.8em'}}/></div>
-              <h4><a href="service-details.php?id=4">Over-The-Top Platforms</a></h4>
+              <h4><a href="">Over-The-Top Platforms</a></h4>
               <p>Netflix, Amazon Prime Video, Hulu, Apple TV+, Disney Plus, HBO Now, Peacock, iTunes, Spotify and other accounts available at best prices.</p>
             </div>
           </div>
@@ -297,7 +297,7 @@ function App() {
           </div>
 
           <div className="col-lg-8 mt-5 mt-lg-0">
-            <form  style={{color:'#757575'}} action="php/message.php" method="post">
+            <form  style={{color:'#757575'}} action="#" method="post">
               <div className="form-group m-2">
                   <input type="text" name="name" className="form-control" placeholder="Name" required/>
               </div>
@@ -348,24 +348,24 @@ function App() {
               <li><FontAwesomeIcon icon="chevron-right"/> <a href="#hero">Home</a></li>
               <li><FontAwesomeIcon icon="chevron-right"/> <a href="#about">About us</a></li>
               <li><FontAwesomeIcon icon="chevron-right"/> <a href="#services">Services</a></li>
-              <li><FontAwesomeIcon icon="chevron-right"/> <a href="admin.php">Admin</a></li>
+              <li><FontAwesomeIcon icon="chevron-right"/> <a href="">Admin</a></li>
             </ul>
           </div>
 
           <div className="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><FontAwesomeIcon icon="chevron-right"/> <a href="form.php?service=postboost">Facebook, Instagram, Google Boosting</a></li>
-              <li><FontAwesomeIcon icon="chevron-right"/> <a href="form.php?service=giftcard">Gift Cards</a></li>
-              <li><FontAwesomeIcon icon="chevron-right"/> <a href="form.php?service=gametopup">Games Topup</a></li>
-              <li><FontAwesomeIcon icon="chevron-right"/> <a href="form.php?service=ottplatform">OTT Platform</a></li>
+              <li><FontAwesomeIcon icon="chevron-right"/> <a href="">Facebook, Instagram, Google Boosting</a></li>
+              <li><FontAwesomeIcon icon="chevron-right"/> <a href="">Gift Cards</a></li>
+              <li><FontAwesomeIcon icon="chevron-right"/> <a href="">Games Topup</a></li>
+              <li><FontAwesomeIcon icon="chevron-right"/> <a href="">OTT Platform</a></li>
             </ul>
           </div>
 
           <div className="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
             <p>Subscribe to our newsletter to get updated.</p>
-            <form action="php/subscribe.php" method="post">
+            <form action="#" method="post">
               <input type="email" name="email"/><input type="submit" value="Subscribe"/>
             </form>
           </div>
