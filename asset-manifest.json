@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Babbal-Boost/static/css/main.67de0abe.css",
-    "main.js": "/Babbal-Boost/static/js/main.e7f50526.js",
-    "static/media/about.jpg": "/Babbal-Boost/static/media/about.5e1e11efc979874764cd.jpg",
-    "static/media/cta-bg.jpg": "/Babbal-Boost/static/media/cta-bg.f17d27bd7475378401ff.jpg",
-    "static/media/rocket.gif": "/Babbal-Boost/static/media/rocket.532076015d18b2c24952.gif",
-    "static/media/counts-img.jpg": "/Babbal-Boost/static/media/counts-img.9b312059cc40b0b3f80e.jpg",
-    "static/media/logo.png": "/Babbal-Boost/static/media/logo.6c6f9b9c2617f153a74e.png",
-    "index.html": "/Babbal-Boost/index.html",
-    "main.67de0abe.css.map": "/Babbal-Boost/static/css/main.67de0abe.css.map",
-    "main.e7f50526.js.map": "/Babbal-Boost/static/js/main.e7f50526.js.map"
+    "main.css": "/Babbal-Boost-React/static/css/main.539c89a3.css",
+    "main.js": "/Babbal-Boost-React/static/js/main.601991a0.js",
+    "static/media/about.jpg": "/Babbal-Boost-React/static/media/about.5e1e11efc979874764cd.jpg",
+    "static/media/cta-bg.jpg": "/Babbal-Boost-React/static/media/cta-bg.f17d27bd7475378401ff.jpg",
+    "static/media/rocket.gif": "/Babbal-Boost-React/static/media/rocket.532076015d18b2c24952.gif",
+    "static/media/counts-img.jpg": "/Babbal-Boost-React/static/media/counts-img.9b312059cc40b0b3f80e.jpg",
+    "static/media/logo.png": "/Babbal-Boost-React/static/media/logo.6c6f9b9c2617f153a74e.png",
+    "index.html": "/Babbal-Boost-React/index.html",
+    "main.539c89a3.css.map": "/Babbal-Boost-React/static/css/main.539c89a3.css.map",
+    "main.601991a0.js.map": "/Babbal-Boost-React/static/js/main.601991a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.67de0abe.css",
-    "static/js/main.e7f50526.js"
+    "static/css/main.539c89a3.css",
+    "static/js/main.601991a0.js"
   ]
 }
